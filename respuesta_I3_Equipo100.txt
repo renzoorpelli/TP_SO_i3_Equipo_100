@@ -28,4 +28,14 @@ f-¿Que debio hacer (todos los comandos) en el punto 7 para poder hacer lo pedid
 5. git commit -m "Gamma 7"	Para confirmar los cambios hechor
 6. git push		Para subir los cambios al repositorio
 
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+1. git pull		Para actualizar el repositorio
+2. git checkout orpelli	Para cambiar de rama
+3. git branch		Para verificar en que rama voy a trabajar
+4. git add .		Para agregar los cambio que se hicieron
+5. git commit -m "Alfa punto 8"	Para confirmar los cambios hechor
+6. git push		Para subir los cambios al repositorio
+
+
+
 
