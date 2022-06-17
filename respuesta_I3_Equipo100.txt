@@ -1,0 +1,11 @@
+Renzo Orpelli
+
+a-¿Como queda El master después de estos cambios?
+El master queda actualizado con todos los cambios, ya que en el punto 5 se hizo el merge
+b-¿Beta pudo ver todos los cambios que se realizaron?
+si porque es dueño del repositorio.
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+Para poder hacer el merge se realizaron los siguientes comandos:
+1. git branch para ver en que rama estaba parado, efectivamente estaba parado en la rama orpelli creada por BETA
+2. git checkout main para pasarme a la rama main.
+3. git merge orpelli para pasar todos los cambios de esa rama a la rama main, después, git add ., git commit -m  y git push
