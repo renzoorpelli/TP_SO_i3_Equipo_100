@@ -9,3 +9,23 @@ Para poder hacer el merge se realizaron los siguientes comandos:
 1. git branch para ver en que rama estaba parado, efectivamente estaba parado en la rama orpelli creada por BETA
 2. git checkout main para pasarme a la rama main.
 3. git merge orpelli para pasar todos los cambios de esa rama a la rama main, después, git add ., git commit -m  y git push
+
+Roberto Pardo
+
+d-¿Las ramas creadas por Beta y Gamma quedan con los datos actualizados?
+Si quedaron actualizadas al subir los datos modificados.
+
+e-Detalle (explique) los problemas que tuvieron al hacer el merge
+Surgieron problemas tratando de darme cuenta que primero tenia que actuallizar con el comando git pull. 
+Tambien el estar atento en ver sobre que rama se iba a trabajar para despues pusheralo.
+
+
+f-¿Que debio hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+1. git pull		Para actualizar el repositorio
+2. git checkout orpelli	Para cambiar de rama
+3. git branch		Para verificar en que rama voy a trabajar
+4. git add .		Para agregar los cambio que se hicieron
+5. git commit -m "Gamma 7"	Para confirmar los cambios hechor
+6. git push		Para subir los cambios al repositorio
+
+
